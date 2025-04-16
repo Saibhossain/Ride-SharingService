@@ -1,4 +1,4 @@
-    Ride-Sharing System – OOP Java Project
+Ride-Sharing System – OOP Java Project
 
 This project is a console-based ride-sharing system developed using core Object-Oriented Programming (OOP) principles in Java. It simulates the interaction between users, drivers, rides, and locations in a simplified ride-hailing service.
 
@@ -25,7 +25,9 @@ Duplicate registration IDs
 📌 How to Run
 
 Step 1: 
-Clone the repository: git clone https://github.com/yourusername/RideSharingSystem.git
+Clone the repository: 
+
+    git clone https://github.com/Saibhossain/Ride-SharingService.git
 
 Step 2 :
 javac *.java
